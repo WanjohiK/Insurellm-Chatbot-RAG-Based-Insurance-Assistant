@@ -37,11 +37,11 @@ Displayed in Chat Interface
 
 | Component           | Technology                               |
 | ------------------- | ---------------------------------------- |
-| **Frontend**        | Gradio / Streamlit                       |
+| **Frontend**        | Gradio                       |
 | **Backend**         | Python                                   |
-| **Core AI**         | LangChain or LlamaIndex                  |
-| **LLM**             | GPT, Mistral, or Llama 3                 |
-| **Vector Store**    | FAISS / Chroma / Pinecone                |
+| **Core AI**         | LangChain                 |
+| **LLM**             | GPT, or Llama 3                 |
+| **Vector Store**    | FAISS / Chroma                 |
 | **Data Source**     | Company Docs, PDFs, Knowledge Base       |
 | **Embedding Model** | OpenAI Embeddings / SentenceTransformers |
 
