@@ -22,16 +22,27 @@ The chatbot combines the power of Large Language Models (LLMs) with document ret
 ### System Architecture
 
 User Query
+
     ↓
+    
 Retriever (Vector Database: FAISS / Chroma / Pinecone)
+
     ↓
+    
 Relevant Contexts Retrieved
+
     ↓
+    
 LLM (OpenAI / HuggingFace Model)
+
     ↓
+    
 Response Generated with Context
+
     ↓
+    
 Displayed in Chat Interface
+
 
 ### Tech Stack
 
