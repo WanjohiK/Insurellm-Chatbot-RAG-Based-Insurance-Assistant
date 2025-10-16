@@ -1,6 +1,6 @@
 # Insurellm-Chatbot
 
-📘 ## Overview
+ ## Overview
 
 Insurellm Chatbot is an intelligent conversational AI built using Retrieval-Augmented Generation (RAG) architecture.
 It helps users learn about Insurellm, its products, and services in an interactive and context-aware manner.
